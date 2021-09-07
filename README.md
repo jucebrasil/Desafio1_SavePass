@@ -11,8 +11,7 @@
   </a>
 
 <h4 align="center" >
-Curso Rocketseat Trilha React Native Chapter II - Aprendi a construir este app para orçamento pessoal com AsycStorage e login social.
-Ë uma satisfação imensa poder aprender a desenvolver soluções em uma das melhores tecnologias do momento. 
+Nesse desafio, está sendo implementado uma aplicação de gerenciamento de senhas. Essa aplicação possui duas telas, sendo a primeira delas uma listagem das senhas salvas e a segunda a tela de cadastro de novos logins.
 </h1>
 
 <p align="center" >
